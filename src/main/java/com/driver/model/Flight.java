@@ -13,7 +13,7 @@ public class Flight {
     private int maxCapacity;
 
     private Date flightDate;
-
+    
     private double duration;
 
     public Flight() {
